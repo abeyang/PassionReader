@@ -11,7 +11,7 @@
   if (item.updated) bg = "bg-slate-700";
   // if (!item.updated & !item.featured)
 </script>
-
+ 
 <style>
 </style>
 
@@ -42,7 +42,7 @@
           {#if item.web} <!--This is the button for web link-->
             <!-- button -->
             <div class="pb-3">
-              <a class="bg-purple-600 shadow-lg hover:bg-indigo-500 hover:shadow-indigo-800/50 hover:scale-110 transition ease-in-out duration-300  text-white font-bold flex w-fit rounded-md py-1.5 px-3" href={item.web} use:link>
+              <a class="bg-purple-600 shadow-lg hover:bg-indigo-500 hover:shadow-indigo-800/50 {$styles.hoverbutton} text-white font-bold flex w-fit rounded-md py-1.5 px-3" href={item.web} use:link>
                 Read on the Web
                 <!-- right arrow -->
                 <svg xmlns= "http://www.w3.org/2000/svg" class="h-6 w-6 pl-2 inline-block align-middle pt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
@@ -66,7 +66,6 @@
                   <path d="M8 13.5C8.39782 13.5 8.77936 13.342 9.06066 13.0607C9.34196 12.7794 9.5 12.3978 9.5 12C9.5 11.6022 9.34196 11.2206 9.06066 10.9393C8.77936 10.658 8.39782 10.5 8 10.5H7.125V13.5H8Z" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
                 </svg>
 
-                <!-- {#if !item.updated & !item.featured}<a href="">Read PDF</a>{/if} -->
                 {#if item.pdf}<a class="hover:underline" href="{item.pdf}">Light</a>{/if}
                 {#if item.pdf_dark}<a class="hover:underline" href="{item.pdf_dark}">Dark</a>{/if}
 
@@ -74,7 +73,7 @@
             {/if}
           {:else}
           <!--This is for the non-important cards-->
-            <a href="{item.pdf}" class="flex space-x-2 -space-y-0.5 text-base text-slate-400 border-2 border-slate-400 rounded p-1.5 w-[118px]">
+            <a href="{item.pdf}" class="flex space-x-2 -space-y-0.5 text-base text-slate-400 border-2 border-slate-400 rounded p-1.5 w-[118px] {$styles.hoverbutton}">
                 <svg class="h-5 w-5" viewBox="0 0 16 16" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M3 8V2.53 2.36739 3.05268 2.24021 3.14645 2.14645C3.24021 2.05268 3.36739 2 3.5 2H9.5L13 5.5V8" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M9.5 2V5.5H13" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
