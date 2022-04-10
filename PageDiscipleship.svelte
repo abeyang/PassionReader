@@ -5,7 +5,7 @@
   import { styles } from "./styles.js";
   import { toc } from "./toc.js";
   import { onMount } from "svelte";
-  import "@lottiefiles/lottie-player";
+  // import "@lottiefiles/lottie-player";
   import { create } from "@lottiefiles/lottie-interactivity";
 
   let page = toc[9];
