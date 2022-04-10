@@ -43,7 +43,10 @@
             <!-- button -->
             <div class="pb-3">
               <a class="bg-purple-600 shadow-lg hover:bg-indigo-500 hover:shadow-indigo-800/50 {$styles.hoverbutton} text-white font-bold flex w-fit rounded-md py-1.5 px-3" href={item.web} use:link>
-                Read on the Web
+                <div>
+                  Read
+                  <span class="inline lg:hidden xl:inline"> on the Web</span>
+                </div>
                 <!-- right arrow -->
                 <svg xmlns= "http://www.w3.org/2000/svg" class="h-6 w-6 pl-2 inline-block align-middle pt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />

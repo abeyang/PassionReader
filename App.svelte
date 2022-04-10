@@ -71,7 +71,7 @@
       </div>  
 
       <div class="grow lg:dark:bg-slate-800 m-8 lg:p-16 lg:px-16 lg:py-10 sm:px-14 rounded-lg max-w-4xl">
-        <h2 class="text-3xl font-extrabold mb-4">Featured</h2>
+        <h2 class="text-3xl font-extrabold mb-4 text-center lg:text-left">Featured</h2>
         {#each featured as item}
           <Item index={item.index} />
         {/each}
@@ -82,7 +82,7 @@
           {/each}
         </div>
 
-        <h2 class="text-3xl font-extrabold mt-5 mb-4">PDFs</h2>
+        <h2 class="text-3xl font-extrabold mt-5 mb-4 text-center lg:text-left">PDFs</h2>
 
         <div class="flex flex-wrap lg:grid lg:grid-cols-2 lg:gap-x-5">
           {#each items as item}
