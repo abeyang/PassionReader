@@ -73,7 +73,7 @@
             {/if}
           {:else}
           <!--This is for the non-important cards-->
-            <a href="{item.pdf}" class="flex space-x-2 -space-y-0.5 text-base text-slate-400 border-2 border-slate-400 rounded p-1.5 w-[118px] {$styles.hoverbutton}">
+            <a href="{item.pdf}" class="flex space-x-2 -space-y-0.5 text-base text-slate-400 border-2 border-slate-400 rounded py-1.5 px-2.5 w-fit {$styles.hoverbutton}">
                 <svg class="h-5 w-5" viewBox="0 0 16 16" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M3 8V2.53 2.36739 3.05268 2.24021 3.14645 2.14645C3.24021 2.05268 3.36739 2 3.5 2H9.5L13 5.5V8" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M9.5 2V5.5H13" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
@@ -82,7 +82,7 @@
                   <path d="M13.25 12.25H11.75" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M8 13.5C8.39782 13.5 8.77936 13.342 9.06066 13.0607C9.34196 12.7794 9.5 12.3978 9.5 12C9.5 11.6022 9.34196 11.2206 9.06066 10.9393C8.77936 10.658 8.39782 10.5 8 10.5H7.125V13.5H8Z" stroke="#94A3B8" stroke-linecap="round" stroke-linejoin="round"/>
                 </svg>
-                <p>Read PDF</p>
+                <span>Read</span>
                 
             </a> <!-- end of the pdf section-->
           {/if}
