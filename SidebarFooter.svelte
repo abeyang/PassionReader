@@ -1,6 +1,6 @@
 <script>
   import { styles } from "./styles.js";
-  let link = "https://share.getcloudapp.com/5zuy0omJ";
+  let link = "https://bit.ly/passion-reader-2020";
 </script>
 
 <style>
