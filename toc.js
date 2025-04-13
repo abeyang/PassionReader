@@ -11,7 +11,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/kpuJKKW6",
+        pdf: "https://drive.google.com/file/d/1z3lwSO_n9t-Nj0WdPxApydtAgko7ndEg/view?usp=drive_link",
         web: "",
         year: 1958, // most recent is 1981 though
         copyright: 2
@@ -25,7 +25,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/E0ugYYLE",
+        pdf: "https://drive.google.com/file/d/1SYdvUcypuAEPAwf5VLhlKz1n2j-drwQk/view?usp=drive_link",
         web: "",
         copyright: 2 // AW Tozer passed away in 1963
     },
@@ -37,7 +37,7 @@ export const toc = [
         level: 0,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/4guK2ZOW",
+        pdf: "https://drive.google.com/file/d/1GDG3XpP0gCw2RMZRUS8PWdRY5Oy6jhpu/view?usp=drive_link",
         web: "",
         copyright: 2 // Calvary Road first published in 1950; latest 2016
     },
@@ -49,7 +49,7 @@ export const toc = [
         level: 2,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/RBunYyYX",
+        pdf: "https://drive.google.com/file/d/1zY031i8DWvozIEjgccqw0IlRNFp8xzTc/view?usp=drive_link",
         web: ""
     },
     {
@@ -60,7 +60,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/Wnuy0JRY",
+        pdf: "https://drive.google.com/file/d/1kjhTVatw-2av10GXWET1Pj5ycWHwtp83/view?usp=drive_link",
         web: ""
     },
     {
@@ -71,7 +71,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/YEurOogZ",
+        pdf: "https://drive.google.com/file/d/1qqzSmCKGD-261zAUus-bQkSYNmADOtd9/view?usp=drive_link",
         web: ""
     },
     {
@@ -82,7 +82,7 @@ export const toc = [
         level: 0,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/yAuKyb7g",
+        pdf: "https://drive.google.com/file/d/1l4ku2R3WMZPduLPuMEbgbDGQgAbBMLzY/view?usp=drive_link",
         web: ""
     },
     {
@@ -93,7 +93,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/geumAzvn",
+        pdf: "https://drive.google.com/file/d/1Y1Mrf1jYMf964YbvEnJhz4u9_XRfQB77/view?usp=drive_link",
         web: ""
     },
     {
@@ -156,7 +156,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/9ZumQXeB",
+        pdf: "https://drive.google.com/file/d/1rOFhcHlCE3-DLrmwPyC2sLIOt_osCUSo/view?usp=drive_link",
         web: ""
     },
     {
@@ -167,7 +167,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/NQuNYrRQ",
+        pdf: "https://drive.google.com/file/d/1LW5dBMUEusufaKTYkmRCy6JjxtuBWLuw/view?usp=drive_link",
         web: ""
     },
     {
@@ -178,7 +178,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/YEurOoNb",
+        pdf: "https://drive.google.com/file/d/1UW-wv_s5z6kiM7wyFHFuKulY50tZn0L8/view?usp=drive_link",
         web: ""
     },
     {
@@ -189,7 +189,7 @@ export const toc = [
         level: 2,
         featured: false,
         updated: false,
-        pdf: "https://share.getcloudapp.com/nOuRvkgE",
+        pdf: "https://drive.google.com/file/d/1MP7wlMvjdmeOd5-VTdhw4RBuGZVTqcgP/view?usp=drive_link",
         web: ""
     }
 ];
