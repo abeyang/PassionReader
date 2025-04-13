@@ -105,8 +105,8 @@ export const toc = [
         featured: true,
         updated: true,
         thumbnail: "09-cover.svg",
-        pdf: "https://share.getcloudapp.com/YEur88dy",
-        pdf_dark: "https://share.getcloudapp.com/o0uRkkQy",
+        pdf: "https://drive.google.com/file/d/1ymgj_CFJoO_dm0KTfI0NMJ2bCsUm33LP/view?usp=drive_link",
+        pdf_dark: "https://drive.google.com/file/d/1ymgj_CFJoO_dm0KTfI0NMJ2bCsUm33LP/view?usp=drive_link",
         web: "followers-not-admirers"
     },
     {
@@ -118,8 +118,8 @@ export const toc = [
         featured: false,
         updated: true,
         thumbnail: "10-cover.svg",
-        pdf: "https://share.getcloudapp.com/RBunm9dz",
-        pdf_dark: "https://share.getcloudapp.com/YEurkQ1q",
+        pdf: "https://drive.google.com/file/d/1wxkY54DUATLdC6h6LCp1j6M2iHnG8kgN/view?usp=drive_link",
+        pdf_dark: "https://drive.google.com/file/d/1wIe3J3Xv_qJeXfTL6_5UwVIQr8Qt-whp/view?usp=drive_link",
         web: "discipleship-and-cross"
     },
     {
@@ -131,8 +131,8 @@ export const toc = [
         featured: false,
         updated: true,
         thumbnail: "11-cover.png",
-        pdf: "https://share.getcloudapp.com/z8uLrZbw",
-        pdf_dark: "https://share.getcloudapp.com/P8u1GbX5",
+        pdf: "https://drive.google.com/file/d/1bjN24hsjF37qcYXWvMN9yt0enIYiC8qX/view?usp=drive_link",
+        pdf_dark: "https://drive.google.com/file/d/1-pRUh04N0r8Hq8wVGIDyz7XnRZ5eD34v/view?usp=drive_link",
         web: "power-of-forgiveness"
     },
     {
@@ -144,8 +144,8 @@ export const toc = [
         featured: true,
         updated: true,
         thumbnail: "12-cover.svg",
-        pdf: "https://share.getcloudapp.com/lluE0nez",
-        pdf_dark: "https://share.getcloudapp.com/OAu68WdL",
+        pdf: "https://drive.google.com/file/d/1ZxHdzW_t_6c_gKHrezQCxPX-nKOcC3wB/view?usp=drive_link",
+        pdf_dark: "https://drive.google.com/file/d/1bDpOxpj0GHRrCvse9cybdNYUV4N0BSeG/view?usp=drive_link",
         web: "i-like-thief"
     },
     {
