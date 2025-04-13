@@ -106,7 +106,7 @@ export const toc = [
         updated: true,
         thumbnail: "09-cover.svg",
         pdf: "https://drive.google.com/file/d/1ymgj_CFJoO_dm0KTfI0NMJ2bCsUm33LP/view?usp=drive_link",
-        pdf_dark: "https://drive.google.com/file/d/1ymgj_CFJoO_dm0KTfI0NMJ2bCsUm33LP/view?usp=drive_link",
+        pdf_dark: "https://drive.google.com/file/d/1suAySJANrjyMOp8D0xF2FVz4mnJSxg1A/view?usp=drive_link",
         web: "followers-not-admirers"
     },
     {
