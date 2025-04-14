@@ -1,6 +1,6 @@
 <script>
   import { styles } from "./styles.js";
-  let link = "https://bit.ly/passion-reader-2020";
+  let link = "https://bit.ly/passion-reader-2020-drop";
 </script>
 
 <style>
