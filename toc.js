@@ -11,7 +11,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1z3lwSO_n9t-Nj0WdPxApydtAgko7ndEg/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/itdmbt7yaeh96cxkdu11l/01-Death-of-Christ-2020.pdf?rlkey=s1ybu6im1h9zowt5kzr7fuk4k&st=s3yq5st1&dl=0",
         web: "",
         year: 1958, // most recent is 1981 though
         copyright: 2
@@ -25,7 +25,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1SYdvUcypuAEPAwf5VLhlKz1n2j-drwQk/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/sbwfm9t4jpurc3dubgi6u/02-Who-Put-Jesus-on-the-Cross-2020.pdf?rlkey=jo40muge1imobg0rao4425230&st=0yud4tts&dl=0",
         web: "",
         copyright: 2 // AW Tozer passed away in 1963
     },
@@ -37,7 +37,7 @@ export const toc = [
         level: 0,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1GDG3XpP0gCw2RMZRUS8PWdRY5Oy6jhpu/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/3puy85c0273dkqnye4od8/03-Protesting-Our-Innocence-2020.pdf?rlkey=dwvpjr6qdver5w05lcql9azog&st=hauoc92z&dl=0",
         web: "",
         copyright: 2 // Calvary Road first published in 1950; latest 2016
     },
@@ -49,7 +49,7 @@ export const toc = [
         level: 2,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1zY031i8DWvozIEjgccqw0IlRNFp8xzTc/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/391swvx89rokbaqb1zu1q/04-Holy-Justice-2020.pdf?rlkey=22qify27abhrxvdtx64slxqav&st=lt1s2pu7&dl=0",
         web: ""
     },
     {
@@ -60,7 +60,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1kjhTVatw-2av10GXWET1Pj5ycWHwtp83/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/ha1i3w2hmzse3gvrx6y5n/05-Christ-s-Plea-2020.pdf?rlkey=reaiznaeknc23kc0y5oh4qac0&st=8ap7jq8w&dl=0",
         web: ""
     },
     {
@@ -71,7 +71,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1qqzSmCKGD-261zAUus-bQkSYNmADOtd9/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/zus4ury6ejlakxadsuyqo/06-Why-did-Christ-Die-2020.pdf?rlkey=i6bna60ujvh93uk77xtxredx2&st=ykdhk7iv&dl=0",
         web: ""
     },
     {
@@ -82,7 +82,7 @@ export const toc = [
         level: 0,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1l4ku2R3WMZPduLPuMEbgbDGQgAbBMLzY/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/cbfxjjojv1vyhd5s732fc/07-Remember-Me-2020.pdf?rlkey=p0abg3rcjc1bunxlx0f0m0zmp&st=09yagyxv&dl=0",
         web: ""
     },
     {
@@ -93,7 +93,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1Y1Mrf1jYMf964YbvEnJhz4u9_XRfQB77/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/fq66vc1e11s046hz8fe0g/08-Power-of-the-Blood-2020.pdf?rlkey=kv13n71qfboumbk2odn4iwm5r&st=xfbqomsl&dl=0",
         web: ""
     },
     {
@@ -105,8 +105,8 @@ export const toc = [
         featured: true,
         updated: true,
         thumbnail: "09-cover.svg",
-        pdf: "https://drive.google.com/file/d/1ymgj_CFJoO_dm0KTfI0NMJ2bCsUm33LP/view?usp=drive_link",
-        pdf_dark: "https://drive.google.com/file/d/1suAySJANrjyMOp8D0xF2FVz4mnJSxg1A/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/0w6iocd772tjwsr21gd6q/09-Followers-Not-Admirers-Light-2022.pdf?rlkey=1glqpb5jny29h1gus4r9anu2p&st=ndpg5be2&dl=0",
+        pdf_dark: "https://www.dropbox.com/scl/fi/ode3w86zh24vl9sukudgg/09-Followers-not-Admirers-Dark-2022.pdf?rlkey=n69bwpuahxdx5vw9jxtl2hobo&st=e6pcfoae&dl=0",
         web: "followers-not-admirers"
     },
     {
@@ -118,8 +118,8 @@ export const toc = [
         featured: false,
         updated: true,
         thumbnail: "10-cover.svg",
-        pdf: "https://drive.google.com/file/d/1wxkY54DUATLdC6h6LCp1j6M2iHnG8kgN/view?usp=drive_link",
-        pdf_dark: "https://drive.google.com/file/d/1wIe3J3Xv_qJeXfTL6_5UwVIQr8Qt-whp/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/jf3s74lm9z48lun5dx74i/10-Discipleship-and-Cross-Light-2022.pdf?rlkey=5e6olefkziqeacttx73qee4kg&st=rh342302&dl=0",
+        pdf_dark: "https://www.dropbox.com/scl/fi/aso5jsd8dh1gwb9rkkjxg/10-Discipleship-and-Cross-Dark-2022.pdf?rlkey=llbvgtud3flaksmevcifoz973&st=ygbi4f1r&dl=0",
         web: "discipleship-and-cross"
     },
     {
@@ -131,8 +131,8 @@ export const toc = [
         featured: false,
         updated: true,
         thumbnail: "11-cover.png",
-        pdf: "https://drive.google.com/file/d/1bjN24hsjF37qcYXWvMN9yt0enIYiC8qX/view?usp=drive_link",
-        pdf_dark: "https://drive.google.com/file/d/1-pRUh04N0r8Hq8wVGIDyz7XnRZ5eD34v/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/frlict3h2gafl26pq2y2e/11-Power-of-Forgiveness-Light-2022.pdf?rlkey=9uoehq1qz9pywxc64tx9ikful&st=i9oi3vit&dl=0",
+        pdf_dark: "https://www.dropbox.com/scl/fi/fc54mll6o0nf7015zuxpe/11-Power-of-Forgiveness-Dark-2022.pdf?rlkey=ik04eskyhrs0jh7ylv9uimfz4&st=n03k3f1j&dl=0",
         web: "power-of-forgiveness"
     },
     {
@@ -144,8 +144,8 @@ export const toc = [
         featured: true,
         updated: true,
         thumbnail: "12-cover.svg",
-        pdf: "https://drive.google.com/file/d/1ZxHdzW_t_6c_gKHrezQCxPX-nKOcC3wB/view?usp=drive_link",
-        pdf_dark: "https://drive.google.com/file/d/1bDpOxpj0GHRrCvse9cybdNYUV4N0BSeG/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/brxjebo66wfqz27smqbiz/12-I-Like-the-Thief-Light-2022.pdf?rlkey=nbhksxfwcekwi87vvekgwrjdl&st=c2587o68&dl=0",
+        pdf_dark: "https://www.dropbox.com/scl/fi/ngszfzy7oazgzylhxl0yr/12-I-Like-the-Thief-Dark-2022.pdf?rlkey=emu3x30jfy3kf0j263g6g7qzc&st=uobjcofl&dl=0",
         web: "i-like-thief"
     },
     {
@@ -156,7 +156,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1rOFhcHlCE3-DLrmwPyC2sLIOt_osCUSo/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/qlcn7yf5xsvko0n7vvgo6/13-End-is-Life-2020.pdf?rlkey=3ty37cszuuzta7nbtq6vzbn13&st=j8xmbdtj&dl=0",
         web: ""
     },
     {
@@ -167,7 +167,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1LW5dBMUEusufaKTYkmRCy6JjxtuBWLuw/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/pufbbj7vmz1wzzcxjldya/14-Strangest-Story-of-All-2020.pdf?rlkey=anhslw7ee9kkn4knu9jv3pt13&st=igxxu8pm&dl=0",
         web: ""
     },
     {
@@ -178,7 +178,7 @@ export const toc = [
         level: 1,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1UW-wv_s5z6kiM7wyFHFuKulY50tZn0L8/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/phul2w3tqvb79z6m3s1ur/15-Threatened-by-Resurrection-2020.pdf?rlkey=vjwovu6g62z2wx49nlnbv5cmq&st=z6h50uwl&dl=0",
         web: ""
     },
     {
@@ -189,7 +189,7 @@ export const toc = [
         level: 2,
         featured: false,
         updated: false,
-        pdf: "https://drive.google.com/file/d/1MP7wlMvjdmeOd5-VTdhw4RBuGZVTqcgP/view?usp=drive_link",
+        pdf: "https://www.dropbox.com/scl/fi/3g1brgpeca49j0l3blsrc/16-Grand-Miracle-2020.pdf?rlkey=2cw4fub2ahj8kfkn48daiztkl&st=ka43cx0f&dl=0",
         web: ""
     }
 ];
